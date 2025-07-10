@@ -1,0 +1,38 @@
+[
+  {
+    "year": 2022,
+    "university_a": 3.2,
+    "university_b": 3.1,
+    "university_c": 3.3,
+    "average": 3.2,
+    "llmUsers": 2.8,
+    "nonLlmUsers": 3.0
+  },
+  {
+    "year": 2023,
+    "university_a": 3.4,
+    "university_b": 3.3,
+    "university_c": 3.5,
+    "average": 3.4,
+    "llmUsers": 3.2,
+    "nonLlmUsers": 3.1
+  },
+  {
+    "year": 2024,
+    "university_a": 3.6,
+    "university_b": 3.5,
+    "university_c": 3.7,
+    "average": 3.6,
+    "llmUsers": 3.5,
+    "nonLlmUsers": 3.2
+  },
+  {
+    "year": 2025,
+    "university_a": 3.8,
+    "university_b": 3.7,
+    "university_c": 3.9,
+    "average": 3.8,
+    "llmUsers": 3.7,
+    "nonLlmUsers": 3.3
+  }
+]

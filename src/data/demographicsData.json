@@ -1,0 +1,7 @@
+[
+  { "name": "freshman", "value": 28, "count": 798, "color": "#3B82F6" },
+  { "name": "sophomore", "value": 24, "count": 684, "color": "#10B981" },
+  { "name": "junior", "value": 22, "count": 627, "color": "#F59E0B" },
+  { "name": "senior", "value": 18, "count": 513, "color": "#EF4444" },
+  { "name": "graduate", "value": 8, "count": 228, "color": "#8B5CF6" }
+]

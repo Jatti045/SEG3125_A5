@@ -1,0 +1,260 @@
+{
+  "all": [
+    {
+      "purpose": "research",
+      "percentage": 45,
+      "students": 1280,
+      "trend": "+12%"
+    },
+    {
+      "purpose": "homework",
+      "percentage": 38,
+      "students": 1082,
+      "trend": "+8%"
+    },
+    {
+      "purpose": "writing",
+      "percentage": 52,
+      "students": 1481,
+      "trend": "+15%"
+    },
+    { "purpose": "coding", "percentage": 29, "students": 826, "trend": "+22%" },
+    {
+      "purpose": "translation",
+      "percentage": 33,
+      "students": 940,
+      "trend": "+6%"
+    },
+    {
+      "purpose": "summarization",
+      "percentage": 41,
+      "students": 1168,
+      "trend": "+10%"
+    },
+    {
+      "purpose": "brainstorming",
+      "percentage": 36,
+      "students": 1026,
+      "trend": "+14%"
+    }
+  ],
+  "engineering": [
+    {
+      "purpose": "research",
+      "percentage": 52,
+      "students": 312,
+      "trend": "+18%"
+    },
+    {
+      "purpose": "homework",
+      "percentage": 45,
+      "students": 270,
+      "trend": "+12%"
+    },
+    { "purpose": "writing", "percentage": 35, "students": 210, "trend": "+8%" },
+    { "purpose": "coding", "percentage": 68, "students": 408, "trend": "+25%" },
+    {
+      "purpose": "translation",
+      "percentage": 25,
+      "students": 150,
+      "trend": "+4%"
+    },
+    {
+      "purpose": "summarization",
+      "percentage": 38,
+      "students": 228,
+      "trend": "+11%"
+    },
+    {
+      "purpose": "brainstorming",
+      "percentage": 42,
+      "students": 252,
+      "trend": "+16%"
+    }
+  ],
+  "business": [
+    {
+      "purpose": "research",
+      "percentage": 48,
+      "students": 288,
+      "trend": "+14%"
+    },
+    {
+      "purpose": "homework",
+      "percentage": 42,
+      "students": 252,
+      "trend": "+9%"
+    },
+    {
+      "purpose": "writing",
+      "percentage": 58,
+      "students": 348,
+      "trend": "+19%"
+    },
+    { "purpose": "coding", "percentage": 15, "students": 90, "trend": "+3%" },
+    {
+      "purpose": "translation",
+      "percentage": 35,
+      "students": 210,
+      "trend": "+7%"
+    },
+    {
+      "purpose": "summarization",
+      "percentage": 55,
+      "students": 330,
+      "trend": "+17%"
+    },
+    {
+      "purpose": "brainstorming",
+      "percentage": 48,
+      "students": 288,
+      "trend": "+15%"
+    }
+  ],
+  "arts": [
+    {
+      "purpose": "research",
+      "percentage": 55,
+      "students": 220,
+      "trend": "+16%"
+    },
+    {
+      "purpose": "homework",
+      "percentage": 35,
+      "students": 140,
+      "trend": "+6%"
+    },
+    {
+      "purpose": "writing",
+      "percentage": 65,
+      "students": 260,
+      "trend": "+21%"
+    },
+    { "purpose": "coding", "percentage": 8, "students": 32, "trend": "+1%" },
+    {
+      "purpose": "translation",
+      "percentage": 45,
+      "students": 180,
+      "trend": "+12%"
+    },
+    {
+      "purpose": "summarization",
+      "percentage": 42,
+      "students": 168,
+      "trend": "+9%"
+    },
+    {
+      "purpose": "brainstorming",
+      "percentage": 52,
+      "students": 208,
+      "trend": "+18%"
+    }
+  ],
+  "science": [
+    {
+      "purpose": "research",
+      "percentage": 58,
+      "students": 348,
+      "trend": "+20%"
+    },
+    {
+      "purpose": "homework",
+      "percentage": 40,
+      "students": 240,
+      "trend": "+10%"
+    },
+    { "purpose": "writing", "percentage": 38, "students": 228, "trend": "+8%" },
+    { "purpose": "coding", "percentage": 35, "students": 210, "trend": "+15%" },
+    {
+      "purpose": "translation",
+      "percentage": 28,
+      "students": 168,
+      "trend": "+5%"
+    },
+    {
+      "purpose": "summarization",
+      "percentage": 45,
+      "students": 270,
+      "trend": "+13%"
+    },
+    {
+      "purpose": "brainstorming",
+      "percentage": 38,
+      "students": 228,
+      "trend": "+11%"
+    }
+  ],
+  "medicine": [
+    {
+      "purpose": "research",
+      "percentage": 62,
+      "students": 186,
+      "trend": "+22%"
+    },
+    { "purpose": "homework", "percentage": 32, "students": 96, "trend": "+7%" },
+    {
+      "purpose": "writing",
+      "percentage": 45,
+      "students": 135,
+      "trend": "+12%"
+    },
+    { "purpose": "coding", "percentage": 12, "students": 36, "trend": "+2%" },
+    {
+      "purpose": "translation",
+      "percentage": 38,
+      "students": 114,
+      "trend": "+9%"
+    },
+    {
+      "purpose": "summarization",
+      "percentage": 58,
+      "students": 174,
+      "trend": "+19%"
+    },
+    {
+      "purpose": "brainstorming",
+      "percentage": 35,
+      "students": 105,
+      "trend": "+8%"
+    }
+  ],
+  "law": [
+    {
+      "purpose": "research",
+      "percentage": 68,
+      "students": 204,
+      "trend": "+24%"
+    },
+    {
+      "purpose": "homework",
+      "percentage": 38,
+      "students": 114,
+      "trend": "+8%"
+    },
+    {
+      "purpose": "writing",
+      "percentage": 72,
+      "students": 216,
+      "trend": "+26%"
+    },
+    { "purpose": "coding", "percentage": 5, "students": 15, "trend": "+1%" },
+    {
+      "purpose": "translation",
+      "percentage": 42,
+      "students": 126,
+      "trend": "+11%"
+    },
+    {
+      "purpose": "summarization",
+      "percentage": 65,
+      "students": 195,
+      "trend": "+21%"
+    },
+    {
+      "purpose": "brainstorming",
+      "percentage": 45,
+      "students": 135,
+      "trend": "+14%"
+    }
+  ]
+}

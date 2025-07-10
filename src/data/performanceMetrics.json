@@ -1,0 +1,26 @@
+[
+  {
+    "metric": "Academic Performance",
+    "before": 3.2,
+    "after": 3.6,
+    "improvement": "+12.5%",
+    "icon": "Award",
+    "color": "text-blue-400"
+  },
+  {
+    "metric": "Time Efficiency",
+    "before": 6.8,
+    "after": 8.1,
+    "improvement": "+19.1%",
+    "icon": "Activity",
+    "color": "text-purple-400"
+  },
+  {
+    "metric": "Learning Outcomes",
+    "before": 7.5,
+    "after": 8.7,
+    "improvement": "+16.0%",
+    "icon": "Target",
+    "color": "text-orange-400"
+  }
+]

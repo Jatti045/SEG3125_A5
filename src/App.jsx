@@ -785,9 +785,7 @@ function Dashboard() {
           <div className="flex items-center justify-between p-4 rounded-lg bg-slate-700/30">
             <div>
               <p className="text-white font-medium">{t.language}</p>
-              <p className="text-slate-400 text-sm">
-                Choose your preferred language
-              </p>
+              <p className="text-slate-400 text-sm">{t.preferedLanguage}</p>
             </div>
             <button
               onClick={toggleLanguage}
@@ -801,10 +799,12 @@ function Dashboard() {
             </button>
           </div>
           <div className="p-4 rounded-lg bg-slate-700/30">
-            <h4 className="text-white font-medium mb-2">Keyboard Shortcuts</h4>
+            <h4 className="text-white font-medium mb-2">
+              {t.keyboardShortcuts}
+            </h4>
             <div className="space-y-2 text-sm text-slate-400">
               <div className="flex justify-between">
-                <span>Toggle Language</span>
+                <span>{t.toggleLanguage}</span>
                 <kbd className="px-2 py-1 bg-slate-600 rounded text-xs">
                   Ctrl+L
                 </kbd>

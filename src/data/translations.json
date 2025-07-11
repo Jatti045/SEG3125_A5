@@ -66,7 +66,10 @@
     "exportSuccess": "Data exported successfully",
     "exportError": "Failed to export data",
     "filterApplied": "Filter applied",
-    "dataUpdated": "Data updated"
+    "dataUpdated": "Data updated",
+    "preferedLanguage": "Preferred Language",
+    "toggleLanguage": "Toggle Language",
+    "keyboardShortcuts": "Keyboard Shortcuts"
   },
   "fr": {
     "title": "Analytique d'Impact LLM",
@@ -135,6 +138,9 @@
     "exportSuccess": "Données exportées avec succès",
     "exportError": "Échec de l'exportation des données",
     "filterApplied": "Filtre appliqué",
-    "dataUpdated": "Données mises à jour"
+    "dataUpdated": "Données mises à jour",
+    "preferedLanguage": "Choisissez votre langue préférée",
+    "toggleLanguage": "changer de langue",
+    "keyboardShortcuts": "Raccourcis Clavier"
   }
 }
